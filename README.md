@@ -1,2 +1,2 @@
-# website
-Official OMA Group Website
+# OMA Group Website V1
+Static GitHub Pages starter.
